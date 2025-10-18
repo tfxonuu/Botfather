@@ -5,7 +5,7 @@ services:
     env: docker
     dockerfilePath: Dockerfile
     repo: https://github.com/tfxonuu
-    branch: main
+    branch: https://github.com/tfxonuu
     autoDeploy: false
     envVars:
       - key: BOT_TOKEN
