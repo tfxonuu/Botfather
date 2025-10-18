@@ -4,19 +4,19 @@ services:
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/tfxonuu
+    repo: https://github.com/tfxonuu/Botfather
     branch: https://github.com/tfxonuu
     autoDeploy: false
     envVars:
-      - key: BOT_TOKEN
+      - key: 8033732232:AAF_W5lgzZhFjTEZJ0qnMTxtnFqqUZTBuEo
         sync: false
-      - key: API_ID
+      - key: 27293287
         sync: false
-      - key: API_HASH
+      - key: 052041b03a7028b3bd11da3143cffa0e
         sync: false
-      - key: OWNER
+      - key: 7533484450
         sync: false
-      - key: CREDIT
+      - key: SHAHNAWAZ
         sync: false
       #- key: WEBHOOK
         #sync: false
