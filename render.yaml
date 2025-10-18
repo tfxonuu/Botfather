@@ -4,7 +4,7 @@ services:
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://t.me/tfxonuBot
+    repo: https://github.com/tfxonuu
     branch: main
     autoDeploy: false
     envVars:
